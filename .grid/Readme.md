@@ -1,0 +1,1 @@
+Grillas en formato GeoTIFF
