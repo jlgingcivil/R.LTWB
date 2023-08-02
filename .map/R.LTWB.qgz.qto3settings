@@ -1,0 +1,288 @@
+{
+  "KEYFRAMES": {
+    "camera": {
+      "groups": []
+    },
+    "layers": {
+      "ASTGTMV003MosaicQGIS_82b8d705_f42e_4c76_ac93_d8e645298dfe": {
+        "enabled": true,
+        "groups": []
+      },
+      "ASTGTMV003_N04W074_dem_cf8cbac0_8247_4254_b0eb_09ace47604c5": {
+        "enabled": true,
+        "groups": []
+      },
+      "ASTGTMV003_N04W075_dem_0f6fbe80_2ecd_42e5_8012_21d7291202bd": {
+        "enabled": true,
+        "groups": []
+      },
+      "ASTGTMV003_N05W074_dem_1870545d_9233_4a19_942e_1487ec764be7": {
+        "enabled": true,
+        "groups": []
+      },
+      "ASTGTMV003_N05W075_dem_02c83ad2_5236_4112_a3cf_940dcef1a9c0": {
+        "enabled": true,
+        "groups": []
+      },
+      "Bounds_b2c8a5c8_0a1e_4bcd_9594_b3d4864d4aa1": {
+        "enabled": true,
+        "groups": []
+      },
+      "Dissolved_6755472f_cadd_4e2c_9312_1f642c888c30": {
+        "enabled": true,
+        "groups": []
+      },
+      "OUTPUT_aab44221_4fc5_4f54_ab92_fe0d38bb140b": {
+        "enabled": true,
+        "groups": []
+      },
+      "ZonaEstudioEnvelope_CS2120_5f47fb98_8dde_43e0_9fde_4f4fc6f42ac4": {
+        "enabled": true,
+        "groups": []
+      },
+      "ZonaEstudio_CS2120_60c7ff27_be28_43ff_a716_38e04667d536": {
+        "enabled": true,
+        "groups": []
+      },
+      "Zonificacion_hidrografica_2013_11636bc4_23bd_4daa_8b8e_6765040ddabf": {
+        "enabled": true,
+        "groups": []
+      },
+      "fp:cb02c9c3": {
+        "enabled": true,
+        "groups": []
+      }
+    },
+    "repeat": false
+  },
+  "LAYERS": [
+    {
+      "geomType": 3,
+      "layerId": "ZonaEstudioEnvelope_CS2120_5f47fb98_8dde_43e0_9fde_4f4fc6f42ac4",
+      "name": "ZonaEstudioEnvelope.CS2120",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "ZonaEstudio_CS2120_60c7ff27_be28_43ff_a716_38e04667d536",
+      "name": "ZonaEstudio.CS2120",
+      "properties": {
+        "checkBox_Clickable": true,
+        "checkBox_Clip": true,
+        "checkBox_ExportAttrs": false,
+        "checkBox_Label": false,
+        "checkBox_Outline": true,
+        "checkBox_Underline": false,
+        "checkBox_Visible": true,
+        "colorButton_BgColor": [
+          255,
+          255,
+          255,
+          176
+        ],
+        "colorButton_ConnColor": [
+          192,
+          192,
+          208,
+          255
+        ],
+        "colorButton_Label": [
+          0,
+          0,
+          0,
+          255
+        ],
+        "colorButton_OtlColor": [
+          255,
+          255,
+          255,
+          255
+        ],
+        "comboBox_FontFamily": "sans-serif",
+        "comboBox_ObjectType": "Polygon",
+        "comboBox_altitudeMode": null,
+        "comboEdit_Color": {
+          "comboData": 1,
+          "comboText": "Feature style",
+          "editText": "",
+          "type": 2
+        },
+        "comboEdit_Color2": {
+          "comboData": null,
+          "comboText": "None",
+          "editText": "",
+          "type": 7
+        },
+        "comboEdit_FilePath": {},
+        "comboEdit_Opacity": {
+          "comboData": 1,
+          "comboText": "Feature style",
+          "editText": "",
+          "type": 5
+        },
+        "comboEdit_altitude2": {},
+        "expression_Label": "\"OBJECTID_1\"",
+        "fieldExpressionWidget_altitude": "0",
+        "geomWidget0": {},
+        "geomWidget1": {},
+        "geomWidget2": {},
+        "geomWidget3": {},
+        "geomWidget4": {},
+        "groupBox_Background": true,
+        "groupBox_Conn": true,
+        "labelHeightWidget": {
+          "comboData": 1,
+          "comboText": "Relative",
+          "editText": "50",
+          "type": 6
+        },
+        "lineEdit_Name": "",
+        "mtlWidget0": {},
+        "mtlWidget1": {},
+        "radioButton_Expression": true,
+        "radioButton_IntersectingFeatures": true,
+        "slider_FontSize": 3
+      },
+      "visible": false
+    },
+    {
+      "geomType": 0,
+      "layerId": "ASTGTMV003MosaicQGIS_82b8d705_f42e_4c76_ac93_d8e645298dfe",
+      "name": "ASTGTMV003MosaicQGIS",
+      "properties": {
+        "checkBox_Clickable": true,
+        "checkBox_Clip": false,
+        "checkBox_Frame": false,
+        "checkBox_Sides": false,
+        "checkBox_Tiles": false,
+        "checkBox_Visible": true,
+        "checkBox_Wireframe": false,
+        "colorButton_Edge": [
+          0,
+          0,
+          0,
+          255
+        ],
+        "colorButton_Side": [
+          204,
+          187,
+          170,
+          255
+        ],
+        "colorButton_Wireframe": [
+          0,
+          0,
+          0,
+          255
+        ],
+        "comboBox_ClipLayer": "ZonaEstudioEnvelope_CS2120_5f47fb98_8dde_43e0_9fde_4f4fc6f42ac4",
+        "horizontalSlider_DEMSize": 2,
+        "lineEdit_Bottom": "0",
+        "lineEdit_Name": "",
+        "materials": [
+          {
+            "id": "b011295a",
+            "name": "map (canvas)",
+            "properties": {},
+            "type": 0
+          }
+        ],
+        "mtlId": "b011295a",
+        "spinBox_Roughening": 1,
+        "spinBox_Size": 3
+      },
+      "visible": true
+    },
+    {
+      "geomType": 0,
+      "layerId": "OUTPUT_aab44221_4fc5_4f54_ab92_fe0d38bb140b",
+      "name": "Merged",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 0,
+      "layerId": "ASTGTMV003_N05W075_dem_02c83ad2_5236_4112_a3cf_940dcef1a9c0",
+      "name": "ASTGTMV003_N05W075_dem",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 0,
+      "layerId": "ASTGTMV003_N05W074_dem_1870545d_9233_4a19_942e_1487ec764be7",
+      "name": "ASTGTMV003_N05W074_dem",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 0,
+      "layerId": "ASTGTMV003_N04W075_dem_0f6fbe80_2ecd_42e5_8012_21d7291202bd",
+      "name": "ASTGTMV003_N04W075_dem",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 0,
+      "layerId": "ASTGTMV003_N04W074_dem_cf8cbac0_8247_4254_b0eb_09ace47604c5",
+      "name": "ASTGTMV003_N04W074_dem",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "Bounds_b2c8a5c8_0a1e_4bcd_9594_b3d4864d4aa1",
+      "name": "Bounds",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "Dissolved_6755472f_cadd_4e2c_9312_1f642c888c30",
+      "name": "Dissolved",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "Zonificacion_hidrografica_2013_11636bc4_23bd_4daa_8b8e_6765040ddabf",
+      "name": "Zonificacion_hidrografica_2013",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 0,
+      "layerId": "fp:cb02c9c3",
+      "name": "Flat Plane",
+      "properties": {},
+      "visible": false
+    }
+  ],
+  "SCENE": {
+    "checkBox_FixAspectRatio": true,
+    "checkBox_Outline": false,
+    "colorButton_Color": [
+      0,
+      0,
+      0,
+      255
+    ],
+    "colorButton_Fog": [
+      255,
+      255,
+      255,
+      255
+    ],
+    "comboBox_MaterialType": 0,
+    "comboBox_xyShift": true,
+    "groupBox_Fog": false,
+    "lineEdit_CenterX": "4857053.130111303",
+    "lineEdit_CenterY": "2093539.24678203",
+    "lineEdit_Height": "200691.06524331123",
+    "lineEdit_Rotation": "0",
+    "lineEdit_Width": "200691.06524331123",
+    "lineEdit_zFactor": "20",
+    "slider_Fog": 41
+  },
+  "Version": 20701
+}
