@@ -2,7 +2,7 @@
 
 GREP_OPTIONS=''
 
-cookiejar=$(mktemp cookies.XXX) #Original was XXXXXXXXXX
+cookiejar=$(mktemp cookies.XXXXXXXXXX)
 netrc=$(mktemp netrc.XXXXXXXXXX)
 chmod 0600 "$cookiejar" "$netrc"
 function finish {
@@ -34,8 +34,8 @@ exit_with_error() {
 
 prompt_credentials
   detect_app_approval() {
-    approved=`curl -s -b "$cookiejar" -c "$cookiejar" -L --max-redirs 5 --netrc-file "$netrc" https://data.lpdaac.earthdatacloud.nasa.gov/lp-prod-protected/ASTGTM.003/ASTGTMV003_N09W074_dem.tif -w %{http_code} | tail  -1`
-    if [ "$approved" -ne "302" ]; then
+    approved=`curl -s -b "$cookiejar" -c "$cookiejar" -L --max-redirs 5 --netrc-file "$netrc" https://data.lpdaac.earthdatacloud.nasa.gov/lp-prod-protected/ASTGTM.003/ASTGTMV003_N04W074_dem.tif -w '\n%{http_code}' | tail  -1`
+    if [ "$approved" -ne "200" ] && [ "$approved" -ne "301" ] && [ "$approved" -ne "302" ]; then
         # User didn't approve the app. Direct users to approve the app in URS
         exit_with_error "Please ensure that you have authorized the remote application by visiting the link below "
     fi
@@ -43,7 +43,7 @@ prompt_credentials
 
 setup_auth_curl() {
     # Firstly, check if it require URS authentication
-    status=$(curl -s -z "$(date)" -w %{http_code} https://data.lpdaac.earthdatacloud.nasa.gov/lp-prod-protected/ASTGTM.003/ASTGTMV003_N09W074_dem.tif | tail -1)
+    status=$(curl -s -z "$(date)" -w '\n%{http_code}' https://data.lpdaac.earthdatacloud.nasa.gov/lp-prod-protected/ASTGTM.003/ASTGTMV003_N04W074_dem.tif | tail -1)
     if [[ "$status" -ne "200" && "$status" -ne "304" ]]; then
         # URS authentication is required. Now further check if the application/remote service is approved.
         detect_app_approval
