@@ -1,0 +1,136 @@
+# Ignore files for push...
+# General advice from https://github.com/rcfdtools
+# Before put large files over 100MB, you have to include the path and name here on .gitignore.
+# Alert: when you create large files them can appear into the Commit main panel for push and the GitHub server can get back an error and stop the file loading and the pushing process. You can drop the commit, renaming the files after the inclusion here on .gitignore or move the large files to another external directory (like Downloads) and then make a Push. After the Push be done, you can move back the large files to the original folder. Before made Commit drops, is recommended get a full copy of your local repository for prevent data lost.
+# Large files over 100MB have be compress in 95MB file parts.
+
+
+# General exclusions
+.idea/
+.git/
+.venv/
+.git/
+.github/
+.venvArcGISDesktop10.2.2/
+.venvPython3.10.5/
+Lib/
+#.refs/GitHubRefs/
+# Grid pyramid
+*.ovr
+*.lock
+*__pycache__*
+# Compiled Python Files
+*.pyc
+# TIFF world file
+*.tfw
+# Grid temporal metadata
+*.aux.xml
+*.tif.xml
+*.tif.aux.xml
+*.tif.vat.cpg
+*.tif.vat.dbf
+*Copia_de_seguridad_de*
+
+# Video exclusions
+Section02/FdrDEM/FdrDEM.mp4
+Section02/StrDEM/StrDEM.mp4
+Section03/CNEStation/CNEStation.mp4
+Section03/CNEStationElevation/CNEStationElevation.mp4
+Section03/CNEStationDatasetDownload/CNEStationDatasetDownload.mp4
+#Section03/RemoteSensing/RemoteSensing.mp4
+Section03/EDA/EDA.mp4
+Section03/Outlier/Outlier.mp4
+Section03/Impute/Impute.mp4
+#Section03/ENSOONI/ENSOONI.mp4
+Section03/Agg/Agg.mp4
+#Section04/Rain/Rain.mp4
+Section04/Temperature/Temperature.mp4
+#Section04/ETR/ETR.mp4
+#Section05/LTWB/LTWB.mp4
+Section05/FlowPoint/FlowPoint.mp4
+#Section05/FlowPerformance/FlowPerformance.mp4
+#Section05/LTWBBasin/LTWBBasin.mp4
+
+
+# Large files exclusions
+.dem/ASTER/ASTGTMV003Mosaic.tif
+.dem/ASTER/ASTGTMV003Mosaic.tif.*
+.dem/ASTER/ASTGTMV003MosaicArcGISPro.tif
+.dem/ASTER/ASTGTMV003MosaicArcGISPro.tif.*
+.dem/ASTER/ASTGTMV003MosaicQGIS.tif
+.dem/ASTER/ASTGTMV003MosaicQGIS.tif.*
+.dem/ASTER/ASTGTMV003MosaicHillshade.tif
+.dem/ASTER/ASTGTMV003MosaicHillshade.tif.*
+.dem/ASTER/ASTGTMV003MosaicArcGISProHillshade.tif
+.dem/ASTER/ASTGTMV003MosaicArcGISProHillshade.tif.*
+.dem/SRTM/SRTMV003MosaicArcGISPro.tif
+.dem/SRTM/SRTMV003MosaicArcGISPro.tif.*
+.dem/ALOS/APFBSRT1MosaicArcGISPro.tif
+.dem/ALOS/APFBSRT1MosaicArcGISPro.tif.*
+HECHMS/terrain/
+HECHMS/gis/
+.dem/ASTER/ASTGTMV003MosaicArcGISProZE.tif
+.dem/ASTER/ASTGTMV003MosaicArcGISProZE.tif.*
+.dem/SRTM/SRTMV003MosaicArcGISProZE.tif
+.dem/SRTM/SRTMV003MosaicArcGISProZE.tif.*
+.dem/ALOS/APFBSRT1MosaicArcGISProZE.tif
+.dem/ALOS/APFBSRT1MosaicArcGISProZE.tif.*
+#HECGeoHMS/Layers/
+HECGeoHMS/Layers/ALOSAgreeDEM.tif
+HECGeoHMS/Layers/ALOSAgreeDEM.tif.*
+HECGeoHMS/Layers/ASTERAgreeDEM.tif
+HECGeoHMS/Layers/ASTERAgreeDEM.tif.*
+HECGeoHMS/Layers/SRTMAgreeDEM.tif
+HECGeoHMS/Layers/SRTMAgreeDEM.tif.*
+HECGeoHMS/Layers/ASTERFil.tif
+HECGeoHMS/Layers/ASTERFil.tif.*
+HECGeoHMS/Layers/SRTMFil.tif
+HECGeoHMS/Layers/SRTMFil.tif.*
+HECGeoHMS/Layers/ALOSFil.tif
+HECGeoHMS/Layers/ALOSFil.tif.*
+HECGeoHMS/Layers/ASTERSinkLocations.tif
+HECGeoHMS/Layers/ASTERSinkLocations.tif.*
+HECGeoHMS/Layers/ASTERFdr.tif
+HECGeoHMS/Layers/ASTERFdr.tif.*
+HECGeoHMS/Layers/SRTMFdr.tif
+HECGeoHMS/Layers/SRTMFdr.tif.*
+HECGeoHMS/Layers/ALOSFdr.tif
+HECGeoHMS/Layers/ALOSFdr.tif.*
+HECGeoHMS/Layers/ASTERFdrrcfdtools.tif
+HECGeoHMS/Layers/ASTERFdrrcfdtools.tif.*
+HECGeoHMS/Layers/ASTERFdrQGIS.tif
+HECGeoHMS/Layers/ASTERFdrQGIS.tif.*
+HECGeoHMS/Layers/ASTERFac.tif
+HECGeoHMS/Layers/ASTERFac.tif.*
+HECGeoHMS/Layers/SRTMFac.tif
+HECGeoHMS/Layers/SRTMFac.tif.*
+HECGeoHMS/Layers/ALOSFac.tif
+HECGeoHMS/Layers/ALOSFac.tif.*
+HECGeoHMS/Layers/ASTERStr.tif
+HECGeoHMS/Layers/ASTERStr.tif.*
+HECGeoHMS/Layers/SRTMStr.tif
+HECGeoHMS/Layers/SRTMStr.tif.*
+HECGeoHMS/Layers/ALOSStr.tif
+HECGeoHMS/Layers/ALOSStr.tif.*
+.datasets/IDEAM/*.csv
+.datasets/CHIRPS/IDEAMJoined.csv
+.grid/*.tif
+.grid/*.tif.*
+
+# Some samples
+# http://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository#Ignoring-Files
+
+# ignore all .a files
+# *.a
+
+# but do track lib.a, even though you're ignoring .a files above
+# !lib.a
+
+# ignore all files in any directory named build
+# build/
+
+# ignore doc/notes.txt, but not doc/server/arch.txt
+# doc/*.txt
+
+# ignore all .pdf files in the doc/ directory and any of its subdirectories
+# doc/**/*.pdf
