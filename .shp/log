@@ -1,0 +1,3 @@
+202308261040   0     7     0JLGC_2 C:\Strm\ASTERStr.shp = GRIDLINESHAPE(C:\Strm\Layers\ASTERStr.tif, POSITIVE, 0, NOWEED)
+202308261043   0     6     0JLGC_2 C:\Strm\SRTMstr.shp = GRIDLINESHAPE(C:\Strm\Layers\SRTMStr.tif, POSITIVE, 0, NOWEED)
+202308261045   0    18     0JLGC_2 C:\Strm\alosrstr.shp = GRIDLINESHAPE(C:\Strm\Layers\ALOSStr.tif, POSITIVE, 0, NOWEED)
