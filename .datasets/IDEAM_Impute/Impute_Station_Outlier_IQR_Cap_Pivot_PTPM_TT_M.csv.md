@@ -1,6 +1,6 @@
 # Impute missing values in time series through statistical methods - Complementary report
 * Processed file: [C:/JLGC/R.LTWB/.datasets/IDEAM_Outlier/Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv](../IDEAM_Outlier/Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv)
-* Execution date: 2023-09-20 11:46:34.526109
+* Execution date: 2023-09-23 10:53:52.733205
 * Instructions & script: https://github.com/rcfdtools/R.LTWB/tree/main/Section03/Impute
 * License: https://github.com/rcfdtools/R.LTWB/blob/main/LICENSE.md
 * Credits: r.cfdtools@gmail.com
@@ -9,10 +9,6 @@
 
 ![R.LTWB](Graph/21170020_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21170020_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21170020_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21170020_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21170020_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21170020_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21170020_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21170020_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
 
-## Station: 21185040
-
-![R.LTWB](Graph/21185040_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21185040_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21185040_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21185040_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21185040_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21185040_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21185040_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21185040_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
-
 ## Station: 21190030
 
 ![R.LTWB](Graph/21190030_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21190030_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21190030_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21190030_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21190030_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21190030_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21190030_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21190030_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
@@ -20,14 +16,6 @@
 ## Station: 21190060
 
 ![R.LTWB](Graph/21190060_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21190060_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21190060_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21190060_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21190060_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21190060_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21190060_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21190060_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
-
-## Station: 21190110
-
-![R.LTWB](Graph/21190110_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21190110_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21190110_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21190110_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21190110_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21190110_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21190110_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21190110_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
-
-## Station: 21190170
-
-![R.LTWB](Graph/21190170_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21190170_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21190170_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21190170_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21190170_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21190170_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21190170_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21190170_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
 
 ## Station: 21190210
 
@@ -41,22 +29,6 @@
 
 ![R.LTWB](Graph/21190310_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21190310_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21190310_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21190310_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21190310_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21190310_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21190310_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21190310_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
 
-## Station: 21190360
-
-![R.LTWB](Graph/21190360_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21190360_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21190360_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21190360_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21190360_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21190360_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21190360_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21190360_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
-
-## Station: 21190430
-
-![R.LTWB](Graph/21190430_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21190430_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21190430_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21190430_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21190430_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21190430_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21190430_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21190430_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
-
-## Station: 21190440
-
-![R.LTWB](Graph/21190440_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21190440_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21190440_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21190440_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21190440_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21190440_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21190440_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21190440_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
-
-## Station: 21190450
-
-![R.LTWB](Graph/21190450_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21190450_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21190450_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21190450_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21190450_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21190450_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21190450_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21190450_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
-
 ## Station: 21190460
 
 ![R.LTWB](Graph/21190460_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21190460_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21190460_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21190460_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21190460_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21190460_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21190460_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21190460_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
@@ -69,10 +41,6 @@
 
 ![R.LTWB](Graph/21195030_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21195030_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21195030_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21195030_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21195030_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21195030_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21195030_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21195030_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
 
-## Station: 21195080
-
-![R.LTWB](Graph/21195080_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21195080_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21195080_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21195080_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21195080_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21195080_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21195080_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21195080_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
-
 ## Station: 21195120
 
 ![R.LTWB](Graph/21195120_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21195120_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21195120_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21195120_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21195120_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21195120_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21195120_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21195120_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
@@ -84,10 +52,6 @@
 ## Station: 21195190
 
 ![R.LTWB](Graph/21195190_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21195190_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21195190_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21195190_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21195190_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21195190_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21195190_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21195190_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
-
-## Station: 21200040
-
-![R.LTWB](Graph/21200040_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200040_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200040_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200040_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200040_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200040_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200040_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200040_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
 
 ## Station: 21200080
 
@@ -104,10 +68,6 @@
 ## Station: 21200160
 
 ![R.LTWB](Graph/21200160_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200160_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200160_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200160_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200160_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200160_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200160_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200160_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
-
-## Station: 21200170
-
-![R.LTWB](Graph/21200170_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200170_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200170_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200170_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200170_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200170_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200170_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200170_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
 
 ## Station: 21200190
 
@@ -149,10 +109,6 @@
 
 ![R.LTWB](Graph/21200380_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200380_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200380_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200380_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200380_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200380_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200380_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200380_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
 
-## Station: 21200390
-
-![R.LTWB](Graph/21200390_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200390_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200390_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200390_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200390_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200390_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200390_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200390_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
-
 ## Station: 21200400
 
 ![R.LTWB](Graph/21200400_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200400_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200400_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200400_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200400_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200400_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200400_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200400_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
@@ -160,14 +116,6 @@
 ## Station: 21200430
 
 ![R.LTWB](Graph/21200430_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200430_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200430_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200430_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200430_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200430_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200430_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200430_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
-
-## Station: 21200440
-
-![R.LTWB](Graph/21200440_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200440_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200440_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200440_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200440_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200440_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200440_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200440_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
-
-## Station: 21200500
-
-![R.LTWB](Graph/21200500_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200500_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200500_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200500_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200500_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200500_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200500_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200500_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
 
 ## Station: 21200510
 
@@ -181,45 +129,17 @@
 
 ![R.LTWB](Graph/21200550_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200550_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200550_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200550_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200550_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200550_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200550_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200550_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
 
-## Station: 21200580
-
-![R.LTWB](Graph/21200580_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200580_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200580_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200580_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200580_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200580_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200580_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200580_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
-
-## Station: 21200590
-
-![R.LTWB](Graph/21200590_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200590_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200590_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200590_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200590_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200590_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200590_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200590_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
-
 ## Station: 21200600
 
 ![R.LTWB](Graph/21200600_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200600_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200600_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200600_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200600_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200600_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200600_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200600_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
-
-## Station: 21200610
-
-![R.LTWB](Graph/21200610_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200610_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200610_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200610_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200610_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200610_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200610_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200610_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
 
 ## Station: 21200620
 
 ![R.LTWB](Graph/21200620_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200620_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200620_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200620_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200620_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200620_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200620_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200620_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
 
-## Station: 21200650
-
-![R.LTWB](Graph/21200650_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200650_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200650_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200650_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200650_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200650_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200650_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200650_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
-
-## Station: 21200660
-
-![R.LTWB](Graph/21200660_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200660_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200660_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200660_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200660_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200660_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200660_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200660_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
-
 ## Station: 21200690
 
 ![R.LTWB](Graph/21200690_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200690_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200690_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200690_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200690_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200690_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200690_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200690_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
-
-## Station: 21200700
-
-![R.LTWB](Graph/21200700_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200700_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200700_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200700_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200700_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200700_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200700_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200700_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
-
-## Station: 21200720
-
-![R.LTWB](Graph/21200720_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200720_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200720_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200720_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200720_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200720_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200720_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200720_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
 
 ## Station: 21200740
 
@@ -236,10 +156,6 @@
 ## Station: 21200780
 
 ![R.LTWB](Graph/21200780_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200780_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200780_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200780_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200780_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200780_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200780_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200780_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
-
-## Station: 21200830
-
-![R.LTWB](Graph/21200830_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200830_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200830_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200830_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200830_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200830_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200830_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21200830_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
 
 ## Station: 21200850
 
@@ -285,10 +201,6 @@
 
 ![R.LTWB](Graph/21201140_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201140_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201140_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201140_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201140_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201140_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201140_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201140_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
 
-## Station: 21201150
-
-![R.LTWB](Graph/21201150_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201150_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201150_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201150_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201150_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201150_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201150_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201150_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
-
 ## Station: 21201180
 
 ![R.LTWB](Graph/21201180_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201180_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201180_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201180_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201180_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201180_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201180_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201180_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
@@ -320,10 +232,6 @@
 ## Station: 21201270
 
 ![R.LTWB](Graph/21201270_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201270_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201270_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201270_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201270_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201270_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201270_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201270_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
-
-## Station: 21201290
-
-![R.LTWB](Graph/21201290_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201290_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201290_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201290_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201290_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201290_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201290_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201290_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
 
 ## Station: 21201300
 
@@ -393,65 +301,21 @@
 
 ![R.LTWB](Graph/21201660_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201660_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201660_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201660_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201660_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201660_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201660_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201660_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
 
-## Station: 21201670
-
-![R.LTWB](Graph/21201670_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201670_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201670_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201670_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201670_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201670_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201670_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201670_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
-
-## Station: 21201680
-
-![R.LTWB](Graph/21201680_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201680_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201680_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201680_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201680_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201680_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201680_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201680_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
-
-## Station: 21201690
-
-![R.LTWB](Graph/21201690_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201690_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201690_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201690_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201690_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201690_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201690_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201690_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
-
-## Station: 21201700
-
-![R.LTWB](Graph/21201700_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201700_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201700_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201700_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201700_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201700_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201700_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201700_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
-
 ## Station: 21201710
 
 ![R.LTWB](Graph/21201710_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201710_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201710_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201710_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201710_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201710_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201710_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201710_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
-
-## Station: 21201730
-
-![R.LTWB](Graph/21201730_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201730_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201730_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201730_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201730_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201730_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201730_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201730_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
-
-## Station: 21201740
-
-![R.LTWB](Graph/21201740_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201740_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201740_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201740_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201740_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201740_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201740_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201740_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
 
 ## Station: 21201770
 
 ![R.LTWB](Graph/21201770_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201770_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201770_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201770_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201770_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201770_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201770_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201770_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
 
-## Station: 21201780
-
-![R.LTWB](Graph/21201780_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201780_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201780_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201780_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201780_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201780_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201780_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201780_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
-
 ## Station: 21201800
 
 ![R.LTWB](Graph/21201800_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201800_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201800_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201800_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201800_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201800_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201800_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201800_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
 
-## Station: 21201810
-
-![R.LTWB](Graph/21201810_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201810_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201810_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201810_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201810_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201810_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201810_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201810_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
-
-## Station: 21201820
-
-![R.LTWB](Graph/21201820_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201820_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201820_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201820_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201820_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201820_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201820_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201820_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
-
-## Station: 21201830
-
-![R.LTWB](Graph/21201830_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201830_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201830_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201830_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201830_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201830_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201830_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201830_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
-
 ## Station: 21201850
 
 ![R.LTWB](Graph/21201850_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201850_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201850_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201850_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201850_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201850_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201850_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201850_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
-
-## Station: 21201870
-
-![R.LTWB](Graph/21201870_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201870_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201870_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201870_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201870_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201870_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201870_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21201870_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
 
 ## Station: 21201880
 
@@ -497,10 +361,6 @@
 
 ![R.LTWB](Graph/21202080_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21202080_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21202080_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21202080_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21202080_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21202080_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21202080_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21202080_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
 
-## Station: 21202100
-
-![R.LTWB](Graph/21202100_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21202100_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21202100_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21202100_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21202100_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21202100_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21202100_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21202100_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
-
 ## Station: 21202110
 
 ![R.LTWB](Graph/21202110_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21202110_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21202110_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21202110_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21202110_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21202110_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21202110_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21202110_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
@@ -517,14 +377,6 @@
 
 ![R.LTWB](Graph/21202160_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21202160_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21202160_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21202160_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21202160_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21202160_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21202160_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21202160_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
 
-## Station: 21205012
-
-![R.LTWB](Graph/21205012_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205012_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205012_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205012_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205012_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205012_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205012_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205012_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
-
-## Station: 21205090
-
-![R.LTWB](Graph/21205090_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205090_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205090_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205090_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205090_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205090_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205090_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205090_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
-
 ## Station: 21205160
 
 ![R.LTWB](Graph/21205160_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205160_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205160_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205160_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205160_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205160_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205160_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205160_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
@@ -536,22 +388,6 @@
 ## Station: 21205240
 
 ![R.LTWB](Graph/21205240_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205240_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205240_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205240_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205240_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205240_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205240_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205240_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
-
-## Station: 21205300
-
-![R.LTWB](Graph/21205300_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205300_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205300_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205300_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205300_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205300_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205300_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205300_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
-
-## Station: 21205340
-
-![R.LTWB](Graph/21205340_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205340_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205340_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205340_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205340_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205340_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205340_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205340_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
-
-## Station: 21205360
-
-![R.LTWB](Graph/21205360_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205360_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205360_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205360_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205360_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205360_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205360_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205360_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
-
-## Station: 21205370
-
-![R.LTWB](Graph/21205370_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205370_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205370_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205370_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205370_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205370_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205370_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205370_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
 
 ## Station: 21205390
 
@@ -569,14 +405,6 @@
 
 ![R.LTWB](Graph/21205420_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205420_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205420_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205420_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205420_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205420_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205420_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205420_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
 
-## Station: 21205450
-
-![R.LTWB](Graph/21205450_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205450_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205450_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205450_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205450_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205450_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205450_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205450_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
-
-## Station: 21205470
-
-![R.LTWB](Graph/21205470_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205470_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205470_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205470_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205470_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205470_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205470_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205470_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
-
 ## Station: 21205480
 
 ![R.LTWB](Graph/21205480_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205480_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205480_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205480_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205480_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205480_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205480_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205480_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
@@ -585,21 +413,9 @@
 
 ![R.LTWB](Graph/21205520_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205520_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205520_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205520_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205520_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205520_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205520_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205520_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
 
-## Station: 21205540
-
-![R.LTWB](Graph/21205540_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205540_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205540_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205540_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205540_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205540_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205540_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205540_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
-
-## Station: 21205550
-
-![R.LTWB](Graph/21205550_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205550_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205550_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205550_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205550_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205550_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205550_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205550_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
-
 ## Station: 21205570
 
 ![R.LTWB](Graph/21205570_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205570_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205570_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205570_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205570_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205570_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205570_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205570_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
-
-## Station: 21205580
-
-![R.LTWB](Graph/21205580_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205580_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205580_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205580_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205580_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205580_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205580_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205580_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
 
 ## Station: 21205590
 
@@ -617,17 +433,9 @@
 
 ![R.LTWB](Graph/21205660_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205660_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205660_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205660_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205660_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205660_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205660_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205660_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
 
-## Station: 21205670
-
-![R.LTWB](Graph/21205670_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205670_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205670_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205670_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205670_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205670_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205670_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205670_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
-
 ## Station: 21205690
 
 ![R.LTWB](Graph/21205690_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205690_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205690_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205690_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205690_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205690_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205690_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205690_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
-
-## Station: 21205700
-
-![R.LTWB](Graph/21205700_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205700_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205700_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205700_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205700_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205700_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205700_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205700_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
 
 ## Station: 21205710
 
@@ -641,25 +449,13 @@
 
 ![R.LTWB](Graph/21205740_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205740_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205740_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205740_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205740_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205740_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205740_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205740_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
 
-## Station: 21205770
-
-![R.LTWB](Graph/21205770_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205770_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205770_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205770_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205770_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205770_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205770_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205770_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
-
 ## Station: 21205791
 
 ![R.LTWB](Graph/21205791_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205791_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205791_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205791_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205791_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205791_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205791_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205791_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
 
-## Station: 21205910
-
-![R.LTWB](Graph/21205910_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205910_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205910_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205910_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205910_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205910_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205910_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205910_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
-
 ## Station: 21205940
 
 ![R.LTWB](Graph/21205940_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205940_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205940_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205940_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205940_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205940_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205940_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205940_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
-
-## Station: 21205970
-
-![R.LTWB](Graph/21205970_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205970_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205970_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205970_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205970_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205970_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205970_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21205970_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
 
 ## Station: 21205980
 
@@ -673,29 +469,13 @@
 
 ![R.LTWB](Graph/21206080_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206080_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206080_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206080_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206080_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206080_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206080_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206080_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
 
-## Station: 21206160
-
-![R.LTWB](Graph/21206160_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206160_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206160_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206160_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206160_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206160_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206160_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206160_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
-
 ## Station: 21206180
 
 ![R.LTWB](Graph/21206180_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206180_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206180_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206180_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206180_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206180_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206180_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206180_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
 
-## Station: 21206190
-
-![R.LTWB](Graph/21206190_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206190_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206190_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206190_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206190_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206190_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206190_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206190_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
-
-## Station: 21206230
-
-![R.LTWB](Graph/21206230_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206230_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206230_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206230_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206230_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206230_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206230_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206230_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
-
 ## Station: 21206260
 
 ![R.LTWB](Graph/21206260_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206260_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206260_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206260_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206260_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206260_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206260_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206260_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
-
-## Station: 21206280
-
-![R.LTWB](Graph/21206280_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206280_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206280_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206280_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206280_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206280_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206280_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206280_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
 
 ## Station: 21206290
 
@@ -705,45 +485,13 @@
 
 ![R.LTWB](Graph/21206300_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206300_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206300_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206300_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206300_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206300_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206300_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206300_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
 
-## Station: 21206310
-
-![R.LTWB](Graph/21206310_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206310_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206310_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206310_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206310_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206310_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206310_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206310_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
-
-## Station: 21206350
-
-![R.LTWB](Graph/21206350_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206350_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206350_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206350_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206350_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206350_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206350_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206350_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
-
-## Station: 21206390
-
-![R.LTWB](Graph/21206390_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206390_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206390_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206390_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206390_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206390_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206390_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206390_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
-
 ## Station: 21206400
 
 ![R.LTWB](Graph/21206400_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206400_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206400_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206400_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206400_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206400_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206400_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206400_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
 
-## Station: 21206410
-
-![R.LTWB](Graph/21206410_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206410_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206410_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206410_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206410_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206410_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206410_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206410_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
-
-## Station: 21206460
-
-![R.LTWB](Graph/21206460_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206460_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206460_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206460_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206460_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206460_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206460_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206460_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
-
-## Station: 21206500
-
-![R.LTWB](Graph/21206500_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206500_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206500_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206500_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206500_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206500_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206500_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206500_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
-
-## Station: 21206550
-
-![R.LTWB](Graph/21206550_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206550_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206550_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206550_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206550_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206550_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206550_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206550_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
-
 ## Station: 21206560
 
 ![R.LTWB](Graph/21206560_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206560_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206560_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206560_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206560_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206560_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206560_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206560_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
-
-## Station: 21206570
-
-![R.LTWB](Graph/21206570_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206570_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206570_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206570_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206570_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206570_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206570_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206570_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
 
 ## Station: 21206590
 
@@ -753,21 +501,9 @@
 
 ![R.LTWB](Graph/21206600_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206600_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206600_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206600_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206600_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206600_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206600_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206600_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
 
-## Station: 21206620
-
-![R.LTWB](Graph/21206620_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206620_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206620_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206620_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206620_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206620_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206620_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206620_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
-
-## Station: 21206630
-
-![R.LTWB](Graph/21206630_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206630_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206630_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206630_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206630_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206630_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206630_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206630_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
-
 ## Station: 21206650
 
 ![R.LTWB](Graph/21206650_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206650_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206650_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206650_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206650_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206650_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206650_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206650_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
-
-## Station: 21206660
-
-![R.LTWB](Graph/21206660_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206660_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206660_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206660_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206660_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206660_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206660_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21206660_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
 
 ## Station: 21206690
 
@@ -825,14 +561,6 @@
 
 ![R.LTWB](Graph/21250610_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21250610_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21250610_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21250610_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21250610_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21250610_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21250610_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21250610_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
 
-## Station: 21255080
-
-![R.LTWB](Graph/21255080_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21255080_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21255080_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21255080_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21255080_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21255080_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21255080_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/21255080_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
-
-## Station: 23010140
-
-![R.LTWB](Graph/23010140_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/23010140_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/23010140_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/23010140_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/23010140_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/23010140_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/23010140_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/23010140_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
-
 ## Station: 23025020
 
 ![R.LTWB](Graph/23025020_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/23025020_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/23025020_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/23025020_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/23025020_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/23025020_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/23025020_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/23025020_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
@@ -844,18 +572,6 @@
 ## Station: 23060060
 
 ![R.LTWB](Graph/23060060_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/23060060_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/23060060_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/23060060_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/23060060_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/23060060_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/23060060_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/23060060_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
-
-## Station: 23060070
-
-![R.LTWB](Graph/23060070_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/23060070_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/23060070_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/23060070_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/23060070_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/23060070_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/23060070_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/23060070_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
-
-## Station: 23060080
-
-![R.LTWB](Graph/23060080_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/23060080_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/23060080_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/23060080_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/23060080_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/23060080_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/23060080_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/23060080_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
-
-## Station: 23060130
-
-![R.LTWB](Graph/23060130_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/23060130_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/23060130_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/23060130_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/23060130_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/23060130_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/23060130_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/23060130_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
 
 ## Station: 23060140
 
@@ -873,18 +589,6 @@
 
 ![R.LTWB](Graph/23060200_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/23060200_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/23060200_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/23060200_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/23060200_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/23060200_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/23060200_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/23060200_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
 
-## Station: 23060210
-
-![R.LTWB](Graph/23060210_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/23060210_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/23060210_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/23060210_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/23060210_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/23060210_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/23060210_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/23060210_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
-
-## Station: 23060220
-
-![R.LTWB](Graph/23060220_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/23060220_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/23060220_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/23060220_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/23060220_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/23060220_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/23060220_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/23060220_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
-
-## Station: 23060250
-
-![R.LTWB](Graph/23060250_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/23060250_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/23060250_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/23060250_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/23060250_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/23060250_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/23060250_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/23060250_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
-
 ## Station: 23060260
 
 ![R.LTWB](Graph/23060260_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/23060260_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/23060260_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/23060260_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/23060260_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/23060260_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/23060260_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/23060260_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
@@ -892,18 +596,6 @@
 ## Station: 23060290
 
 ![R.LTWB](Graph/23060290_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/23060290_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/23060290_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/23060290_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/23060290_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/23060290_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/23060290_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/23060290_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
-
-## Station: 23060300
-
-![R.LTWB](Graph/23060300_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/23060300_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/23060300_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/23060300_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/23060300_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/23060300_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/23060300_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/23060300_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
-
-## Station: 23060310
-
-![R.LTWB](Graph/23060310_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/23060310_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/23060310_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/23060310_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/23060310_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/23060310_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/23060310_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/23060310_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
-
-## Station: 23060320
-
-![R.LTWB](Graph/23060320_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/23060320_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/23060320_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/23060320_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/23060320_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/23060320_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/23060320_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/23060320_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
 
 ## Station: 23060370
 
@@ -920,18 +612,6 @@
 ## Station: 23065100
 
 ![R.LTWB](Graph/23065100_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/23065100_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/23065100_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/23065100_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/23065100_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/23065100_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/23065100_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/23065100_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
-
-## Station: 23065120
-
-![R.LTWB](Graph/23065120_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/23065120_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/23065120_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/23065120_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/23065120_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/23065120_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/23065120_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/23065120_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
-
-## Station: 23065140
-
-![R.LTWB](Graph/23065140_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/23065140_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/23065140_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/23065140_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/23065140_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/23065140_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/23065140_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/23065140_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
-
-## Station: 23065150
-
-![R.LTWB](Graph/23065150_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/23065150_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/23065150_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/23065150_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/23065150_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/23065150_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/23065150_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/23065150_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
 
 ## Station: 23120190
 
@@ -969,10 +649,6 @@
 
 ![R.LTWB](Graph/24010300_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/24010300_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/24010300_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/24010300_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/24010300_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/24010300_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/24010300_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/24010300_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
 
-## Station: 24010330
-
-![R.LTWB](Graph/24010330_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/24010330_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/24010330_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/24010330_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/24010330_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/24010330_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/24010330_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/24010330_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
-
 ## Station: 24010350
 
 ![R.LTWB](Graph/24010350_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/24010350_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/24010350_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/24010350_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/24010350_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/24010350_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/24010350_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/24010350_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
@@ -980,10 +656,6 @@
 ## Station: 24010390
 
 ![R.LTWB](Graph/24010390_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/24010390_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/24010390_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/24010390_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/24010390_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/24010390_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/24010390_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/24010390_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
-
-## Station: 24010490
-
-![R.LTWB](Graph/24010490_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/24010490_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/24010490_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/24010490_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/24010490_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/24010490_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/24010490_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/24010490_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
 
 ## Station: 24010520
 
@@ -1045,10 +717,6 @@
 
 ![R.LTWB](Graph/24015210_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/24015210_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/24015210_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/24015210_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/24015210_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/24015210_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/24015210_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/24015210_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
 
-## Station: 24015380
-
-![R.LTWB](Graph/24015380_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/24015380_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/24015380_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/24015380_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/24015380_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/24015380_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/24015380_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/24015380_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
-
 ## Station: 35020010
 
 ![R.LTWB](Graph/35020010_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/35020010_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/35020010_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/35020010_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/35020010_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/35020010_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/35020010_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/35020010_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
@@ -1056,14 +724,6 @@
 ## Station: 35020050
 
 ![R.LTWB](Graph/35020050_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/35020050_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/35020050_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/35020050_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/35020050_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/35020050_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/35020050_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/35020050_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
-
-## Station: 35020080
-
-![R.LTWB](Graph/35020080_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/35020080_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/35020080_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/35020080_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/35020080_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/35020080_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/35020080_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/35020080_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
-
-## Station: 35020090
-
-![R.LTWB](Graph/35020090_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/35020090_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/35020090_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/35020090_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/35020090_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/35020090_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/35020090_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/35020090_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
 
 ## Station: 35020240
 
@@ -1085,10 +745,6 @@
 
 ![R.LTWB](Graph/35020350_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/35020350_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/35020350_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/35020350_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/35020350_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/35020350_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/35020350_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/35020350_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
 
-## Station: 35020370
-
-![R.LTWB](Graph/35020370_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/35020370_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/35020370_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/35020370_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/35020370_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/35020370_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/35020370_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/35020370_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
-
 ## Station: 35020380
 
 ![R.LTWB](Graph/35020380_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/35020380_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/35020380_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/35020380_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/35020380_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/35020380_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/35020380_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/35020380_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
@@ -1104,10 +760,6 @@
 ## Station: 35025050
 
 ![R.LTWB](Graph/35025050_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/35025050_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/35025050_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/35025050_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/35025050_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/35025050_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/35025050_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/35025050_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
-
-## Station: 35025060
-
-![R.LTWB](Graph/35025060_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/35025060_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/35025060_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/35025060_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/35025060_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/35025060_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/35025060_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/35025060_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
 
 ## Station: 35030010
 
@@ -1161,21 +813,9 @@
 
 ![R.LTWB](Graph/35030260_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/35030260_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/35030260_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/35030260_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/35030260_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/35030260_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/35030260_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/35030260_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
 
-## Station: 35035040
-
-![R.LTWB](Graph/35035040_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/35035040_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/35035040_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/35035040_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/35035040_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/35035040_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/35035040_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/35035040_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
-
-## Station: 35035050
-
-![R.LTWB](Graph/35035050_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/35035050_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/35035050_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/35035050_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/35035050_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/35035050_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/35035050_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/35035050_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
-
 ## Station: 35040010
 
 ![R.LTWB](Graph/35040010_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/35040010_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/35040010_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/35040010_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/35040010_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/35040010_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/35040010_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/35040010_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
-
-## Station: 35060010
-
-![R.LTWB](Graph/35060010_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/35060010_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/35060010_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/35060010_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/35060010_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/35060010_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/35060010_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/35060010_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
 
 ## Station: 35060020
 
@@ -1233,17 +873,9 @@
 
 ![R.LTWB](Graph/35060240_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/35060240_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/35060240_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/35060240_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/35060240_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/35060240_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/35060240_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/35060240_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
 
-## Station: 35065010
-
-![R.LTWB](Graph/35065010_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/35065010_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/35065010_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/35065010_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/35065010_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/35065010_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/35065010_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/35065010_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
-
 ## Station: 35070110
 
 ![R.LTWB](Graph/35070110_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/35070110_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/35070110_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/35070110_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/35070110_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/35070110_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/35070110_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/35070110_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
-
-## Station: 35070160
-
-![R.LTWB](Graph/35070160_Impute_Mean_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/35070160_Impute_Median_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/35070160_Impute_LOCF_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/35070160_Impute_NOCB_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/35070160_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/35070160_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/35070160_Impute_KNN_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)![R.LTWB](Graph/35070160_Impute_MICE_Outlier_IQR_Cap_Pivot_PTPM_TT_M.csv.png)
 
 ## Station: 35070230
 

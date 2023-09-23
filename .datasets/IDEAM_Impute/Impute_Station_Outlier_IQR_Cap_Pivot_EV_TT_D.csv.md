@@ -1,6 +1,6 @@
 # Impute missing values in time series through statistical methods - Complementary report
 * Processed file: [C:/JLGC/R.LTWB/.datasets/IDEAM_Outlier/Outlier_IQR_Cap_Pivot_EV_TT_D.csv](../IDEAM_Outlier/Outlier_IQR_Cap_Pivot_EV_TT_D.csv)
-* Execution date: 2023-09-20 12:00:13.524902
+* Execution date: 2023-09-23 11:06:50.952686
 * Instructions & script: https://github.com/rcfdtools/R.LTWB/tree/main/Section03/Impute
 * License: https://github.com/rcfdtools/R.LTWB/blob/main/LICENSE.md
 * Credits: r.cfdtools@gmail.com
@@ -24,10 +24,6 @@
 ## Station: 21206990
 
 ![R.LTWB](Graph/21206990_Impute_Mean_Outlier_IQR_Cap_Pivot_EV_TT_D.csv.png)![R.LTWB](Graph/21206990_Impute_Median_Outlier_IQR_Cap_Pivot_EV_TT_D.csv.png)![R.LTWB](Graph/21206990_Impute_LOCF_Outlier_IQR_Cap_Pivot_EV_TT_D.csv.png)![R.LTWB](Graph/21206990_Impute_NOCB_Outlier_IQR_Cap_Pivot_EV_TT_D.csv.png)![R.LTWB](Graph/21206990_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_EV_TT_D.csv.png)![R.LTWB](Graph/21206990_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_EV_TT_D.csv.png)![R.LTWB](Graph/21206990_Impute_KNN_Outlier_IQR_Cap_Pivot_EV_TT_D.csv.png)![R.LTWB](Graph/21206990_Impute_MICE_Outlier_IQR_Cap_Pivot_EV_TT_D.csv.png)
-
-## Station: 21255160
-
-![R.LTWB](Graph/21255160_Impute_Mean_Outlier_IQR_Cap_Pivot_EV_TT_D.csv.png)![R.LTWB](Graph/21255160_Impute_Median_Outlier_IQR_Cap_Pivot_EV_TT_D.csv.png)![R.LTWB](Graph/21255160_Impute_LOCF_Outlier_IQR_Cap_Pivot_EV_TT_D.csv.png)![R.LTWB](Graph/21255160_Impute_NOCB_Outlier_IQR_Cap_Pivot_EV_TT_D.csv.png)![R.LTWB](Graph/21255160_Impute_InterpolateLinear_Outlier_IQR_Cap_Pivot_EV_TT_D.csv.png)![R.LTWB](Graph/21255160_Impute_MeanEWM_Outlier_IQR_Cap_Pivot_EV_TT_D.csv.png)![R.LTWB](Graph/21255160_Impute_KNN_Outlier_IQR_Cap_Pivot_EV_TT_D.csv.png)![R.LTWB](Graph/21255160_Impute_MICE_Outlier_IQR_Cap_Pivot_EV_TT_D.csv.png)
 
 ## Station: 24015110
 
